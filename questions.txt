@@ -9,3 +9,7 @@ I know how to push:
 	after I clone an repository using clone command,
 	I made some change to the file.
 	I use command git push -u origin master to push the changed file to GitHub.
+I know how to pull:
+	in order to keep track of newest version on the server,
+	we need pull command to pull the newest version from Web to local computer.
+	Just use git pull.
