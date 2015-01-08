@@ -9,6 +9,10 @@ I know how to push:
 	after I clone an repository using clone command,
 	I made some change to the file.
 	I use command git push -u origin master to push the changed file to GitHub.
+	
+	questions in push:
+	where push, the prompt says "Everythin up-to-date",how fix this?
+	the answer: we must git add and commit the file, then push it to the cloud.
 I know how to pull:
 	in order to keep track of newest version on the server,
 	we need pull command to pull the newest version from Web to local computer.
