@@ -5,3 +5,7 @@ how to push?
 I know how to clone:
 	create a repository in github first.
 	using command git clone <url> to clone 
+I know how to push:
+	after I clone an repository using clone command,
+	I made some change to the file.
+	I use command git push -u origin master to push the changed file to GitHub.
