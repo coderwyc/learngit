@@ -1,3 +1,4 @@
 # learngit
 example for how to use github
-Create an new branch dev
+Create a new branch dev
+Create a new branch is quick and simple. 
