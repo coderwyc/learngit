@@ -4,6 +4,14 @@ Switch to new branch:
 	git checkout dev
 Create and Switch:
 	git checkout -b dev
-
+*********************************
 Display all branch and * will on the left of current working branch:
 	git branch
+*********************************
+Anything done for branch dev will have no influence to the master branch.
+The master branch will still stayed no changed.
+*********************************
+How to merge branches?
+	Now I am in master branch, merge branch dev to master using command:
+	git merge dev
+**********************************
