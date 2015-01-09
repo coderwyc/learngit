@@ -15,3 +15,7 @@ How to merge branches?
 	Now I am in master branch, merge branch dev to master using command:
 	git merge dev
 **********************************
+Delete branch
+After merge branch dev into master, dev is no useful any more.
+We can now delete it using command:
+	git branch -d dev
