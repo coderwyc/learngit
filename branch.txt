@@ -2,6 +2,8 @@ Create a new branch:
 	git branch dev
 Switch to new branch:
 	git checkout dev
-	
 Create and Switch:
 	git checkout -b dev
+
+Display all branch and * will on the left of current working branch:
+	git branch
