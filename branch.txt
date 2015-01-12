@@ -19,3 +19,7 @@ Delete branch
 After merge branch dev into master, dev is no useful any more.
 We can now delete it using command:
 	git branch -d dev
+
+**********************************
+merge with conflicts:
+changed contents manually,while conflicts happened.
