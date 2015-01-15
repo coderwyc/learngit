@@ -1,0 +1,7 @@
+1. set username and email
+    $ git config --global user.name "Your Name"
+    $ git config --global user.email "email@example.com"
+2. create a new repository
+    $ mkdir <folder name>	创建文件夹
+    $ cd <folder name>		进入该文件夹
+    $ pwd             		显示文件夹目录
