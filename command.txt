@@ -10,3 +10,8 @@
 4. add file to repository
     $ git add <file name>
     $ git commit -m "description about commit"
+5. looking for something has been changed or not
+    $ git status	查询仓库状态
+6. looking for what has been changed
+    $ git diff <file name>	查看修改内容
+7.
