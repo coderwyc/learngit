@@ -5,3 +5,8 @@
     $ mkdir <folder name>	创建文件夹
     $ cd <folder name>		进入该文件夹
     $ pwd             		显示文件夹目录
+3. make this folder managed by git using comand git init
+    $ git init		初始化一个空的仓库，管理版本库
+4. add file to repository
+    $ git add <file name>
+    $ git commit -m "description about commit"
